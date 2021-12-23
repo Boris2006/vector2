@@ -5,6 +5,6 @@ using namespace std;
 #include <string>
 #include <vector>
 vector <char> itc_strtlist(string a);
-
+string itc_join(vector <char> &c, string a);
 
 #endif // MIDDLE_LIST_H_INCLUDED
